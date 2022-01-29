@@ -2,7 +2,7 @@
 
 This is a collection of network diagrams I have archived from reddit:
 
-- ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white)
+- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white)](https://reddit.com)
   - [/r/datahoarder](https://reddit.com/r/datahoarder)
   - [/r/homelab](https://reddit.com/r/homelab)
   - [/r/homeserver](https://reddit.com/r/homeserver)
