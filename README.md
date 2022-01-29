@@ -1,6 +1,5 @@
 # network-diagrams
 
-<<<<<<< HEAD
 This is a collection of network diagrams I have archived from reddit:
 
 - ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white)
@@ -13,11 +12,8 @@ These diagrams are meant for reseearch and reference when building your own netw
 
 Examples:
 
-![diagram](network-diagram_0014.png)
+![diagram](diagrams/network-diagram_0014.png)
 
-![diagram](network-diagram_0210.png)
+![diagram](diagrams/network-diagram_0210.png)
 
-![diagram](network-diagram_0897.jpg)
-=======
-![diagram1](network-diagram_0014.png)
->>>>>>> 109e8210c518d5a82e369d69626b9d6b4ed8ddc2
+![diagram](diagrams/network-diagram_0897.jpg)
